@@ -1,6 +1,6 @@
 // This file contains code that we reuse between our tests.
 import * as tap from 'tap'
-import { build } from 'fastify-cli/helper'
+import { build } from 'fastify-cli'
 
 const AppPath = './src/app.ts';
 
